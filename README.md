@@ -53,7 +53,7 @@ A análise cobriu os principais pilares de crescimento da empresa:
 
 Para uma leitura detalhada da metodologia, métricas específicas e conclusões estratégicas, acesse o documento completo:
 
->  **[Relatório de Análise de Dados.md](./Relatório de Análise de Dados.md)**
+>  **[Relatório de Análise de Dados.md](./Relatório_Análise.md)**
 
 ---
 *Desenvolvido por Luiz Rangel Cardoso Teixeira Aguiar — 2026*
